@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{80EA7DDC-CF9C-4578-99F1-9FBBAF74569E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FilmesApi/Program.cs">
+    <Files>
+      <File FileName="FilmesApi/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="FilmesApi/Program.cs" Line="35" Column="11" />
+      <File FileName="FilmesApi/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FilmesApi" expanded="True">
+            <Node name="FilmesApi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FilmesApi PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
